@@ -13,3 +13,5 @@ coverage
 tmp-responsive-checks/
 prisma/*.db
 prisma/*.db-journal
+
+tsconfig.tsbuildinfo
